@@ -66,6 +66,8 @@ Run a query, then add one new fact and run it again.
    💡 *Hint:* Query all four suspects, not just one — seeing a GUILTY trace next to a NOT GUILTY trace makes it much easier to see what the rule is actually checking. Pay attention to two things in each trace: did the suspect have access, and did their edit happen "overnight"?
 
 **INTERROGATION BEFORE**
+
+
 <img width="633" height="607" alt="Interrogation_Before_01" src="https://github.com/user-attachments/assets/5116533b-d5d6-41e4-92e7-49c02a71773d" />
 
 <img width="629" height="578" alt="Interrogation_Before_02" src="https://github.com/user-attachments/assets/51a6dab9-5668-4c53-9d26-f43f883716dd" />
