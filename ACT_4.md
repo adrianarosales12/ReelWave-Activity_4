@@ -37,7 +37,6 @@ Run a query, then add one new fact and run it again.
 1. **Investigate the Data tab.** Take a screenshot of the data quality report.
    💡 *Hint:* "Corrupted" rows are either exact duplicates (the same log entry logged twice) or rows missing a rating. You don't need to count anything by hand — just click "Show data quality report."
 
-<img width="614" height="562" alt="Information_Suspicious" src="https://github.com/user-attachments/assets/43ce2430-e2c7-4b47-9682-74d066a67cd6" />
 <img width="618" height="566" alt="Data_Report" src="https://github.com/user-attachments/assets/fb5de57d-8f9e-4aa3-b2a6-099ed0f67db3" />
 
 
@@ -45,7 +44,7 @@ Run a query, then add one new fact and run it again.
 2. **Investigate the Information tab.** Find the profile type + genre combination with a suspiciously high match score. Take a screenshot.
    💡 *Hint:* Switch the dropdown between kids / teen / adult and compare the bars. Ask yourself: does it make sense for a *kids* profile to score high on any particular genre? One bar shouldn't be there at all.
 
-![Uploading Information_Suspicious.png…]()
+<img width="614" height="562" alt="Information_Suspicious" src="https://github.com/user-attachments/assets/0c1d14c7-319d-4d08-9769-2f0e01c87ea5" />
 
 
 ##
